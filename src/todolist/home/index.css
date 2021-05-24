@@ -1,0 +1,21 @@
+.home{
+    border: 1px solid black;
+max-width: 400px;
+margin: 0 auto;
+}
+
+
+.edit{
+    border-bottom: 1px solid black;
+
+}
+
+.item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.remove{
+    background-color: cornsilk;
+}
